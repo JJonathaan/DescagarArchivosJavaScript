@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(131, 70, 201);
+}
+
+.contenedorPrincipal{
+    border: inset 10px rgb(64, 147, 241);
+    background-color: aqua; 
+    width: 350px;
+    margin: 5% auto;
+    padding: 26px;
+}
+#colorRecuerda{
+    color: rgb(189, 6, 94);
+}
+h1{
+    text-align: center;
+    text-decoration:underline;
+    color: rgb(88, 83, 83);
+    font-size: 28px;
+}
+
+p{
+    text-align:center;
+    font-size:18px;
+    letter-spacing:1px;
+    padding: 10px;
+    color:rgb(88, 83, 83);
+
+}
+
+.contenedorDescarga{
+    background-color:rgb(76, 203, 241);
+    padding: 5px;
+    width: auto;
+    text-align: center;
+    border:double 9px rgb(218, 238, 241);
+}
+
+#descarga_Alert{
+    background-color: rgb(200, 145, 245);
+    font-size:16px;
+    color:  rgb(189, 6, 94);
+    border: ridge 10px  rgb(20, 147, 206);
+}
+
+#descarga_Alert:hover{
+    color: rgb(181, 230, 46);
+ 
+}

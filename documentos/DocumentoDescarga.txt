@@ -1,0 +1,17 @@
+ 
+
+
+
+    
+                    *************************************************************************************
+                    *       La descarga se a completado, para modificar la descarga sigue los pasos.    *
+                    *************************************************************************************
+                    *                                                                                   *
+                    *                1º- Abrimos nuestro editor de código.                              *
+                    *                2º- Vamos a script.js                                              *
+                    *                3º- Modificamos -->  downloadFile                                  *
+                    *                4º- Donde dice  ("DocumentoDescarga.txt")                          *
+                    *                   pondremos la ruta del documento a descargar.                    *
+                    *                5º-Guardamos y ya estaría listo.                                   *
+                    *                                                                                   *
+                    *************************************************************************************       
